@@ -1,6 +1,6 @@
-# Hello Ubutu
+# Hello Ubutu:laptop:
 
-## Crear archivo e introducir resultado de prueba en el
+## Crear archivo 0 e introducir resultado de prueba en el
 
 Inside the holbertonschool-zero_day repo, create a new directory called 0x00-vagrant. Add a README.md file to this directory.
 
