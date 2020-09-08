@@ -1,6 +1,6 @@
 # #TeamEmacs
 
-## COmandos y manejo basicos de Emacs sobre Terminal
+## Comandos y manejo basicos de Emacs sobre Terminal
 
 ## Learning Objectives:bulb:
 At the end of this project, you are expected to be able to explain to anyone, without the help of of Google:
